@@ -5,7 +5,7 @@ int main() {
     float b = 10.0f;
     double c = 2006.0;
     char d = 'q';
-    bool e = fa
+    bool e = false; 
     printf("a = %d\n", a);
     printf("b = %.2f\n", b);
     printf("c = %.6f\n", c);
